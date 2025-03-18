@@ -1,7 +1,7 @@
 <!-- ![logo](https://i.imgur.com/1ttif5Q.gif) -->
 
 ## ✨About Me:
-I'm Artur, 19 y.o senior JS/TS developer from Moscow. 
+I'm Artur, 19 y.o. senior JS/TS developer from Moscow. 
 
 - 🔭 Currently working on **Private decentralized dating app**
 - 🌱 Learning **Tact + Solidity**
